@@ -10,6 +10,9 @@
 - Display the number count
 
 ### Screenshots
+Saving To A File.  Prompted to name and select destination.
 ![WinForm](https://github.com/Dkaban/ReadWrite-WinForms/blob/main/WinForm_SS1.jpg?raw=true)
-![WinForm](https://github.com/Dkaban/ReadWrite-WinForms/blob/main/WinForm_SS2.jpg?raw=true)
+Reading from the file.  Prompted to select the file.
+![Saving](https://github.com/Dkaban/ReadWrite-WinForms/blob/main/WinForm_SS2.jpg?raw=true)
+The Main Form Itself.
 ![WinForm](https://github.com/Dkaban/ReadWrite-WinForms/blob/main/WinForm_SS3.jpg?raw=true)

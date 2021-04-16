@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RandomNumberFileWR/1.0.0": {
+        "runtime": {
+          "RandomNumberFileWR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RandomNumberFileWR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
